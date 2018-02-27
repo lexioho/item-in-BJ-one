@@ -1,0 +1,132 @@
+header{width: 47px;padding-bottom: 10px;}
+.inner{width: 984px;margin: 6px auto;}
+header ul{padding-top: 13px;}
+header .header_logo ul li{float: left;font-size: 18px;font-weight: bold;padding-left: 8px;}
+.header_fr li{float: left;padding-left: 33px;font-size: 16px;}
+.header_fr li img{padding-right: 13px;vertical-align: middle;}
+/*banner区*/
+.banner{background: url("../images/banner_02.jpg") no-repeat center top;width: 100%;height: 698px;position: relative}
+.banner section{width: 901px;margin: 0 auto;}
+.banner h2{position:absolute;top:154px;left: 50%;font-size: 34px;color: #fdf3a8; }
+.banner p{padding-top:74px;padding-left:715px;font-size: 20px;color: #fbe478;font-weight: bold;}
+.banner p span{padding-left: 30px;line-height: 31px;}
+.banner ul{padding-top:433px;width: 751px;margin: 0 auto;}
+.banner ul a{float: left;font-size: 22px;color: #fff;padding-top: 32px;margin-right: 97px;}
+.banner ul a:last-child{margin-right: 0;}
+.banner ul a:nth-child(4){padding-top: 18px;}
+/*main区*/
+main .main_first{width: 100%;height: 701px;background: url("../images/main_first_02.jpg") no-repeat center top;}
+main .main_first h1{padding-top: 101px;font-size: 64px;color: #fde077;line-height: 63px;text-align: center;}
+main .main_first h4{font-size: 38px;color: #fde077;line-height: 101px;text-align: center;}
+/*国考/京考面试*/
+main .main_second{width: 100%;height: 697px;background: url("../images/main_2_03.jpg") no-repeat center top;}
+section{width: 968px;margin: 0 auto;}
+.main_second_fl,.main_second_fr{padding-top: 80px;}
+.main_second_fl ul{padding-left:100px;}
+.main_second_fr .main_second_title{padding-right: 100px;}
+.main_second_fl ul li,.main_second_fr ul li{float: left;font-size: 34px;color: #ffe399;padding-right: 32px;font-weight: bold;}
+/*main_second_content1*/
+.content{width: 446px;}
+.main_second_content1 h2{padding: 44px 0 0 49px;font-size: 20px;color: #ffe399;line-height: 44px;font-weight: bold;}
+.main_second_content1 p{line-height: 24px;padding-left: 21px;font-size: 16px;color: #ffe399;}
+.main_second_content1 h3{line-height: 47px;padding-left: 41px;font-size: 24px;color: #fff;}
+.main_second_content1 a{display: block;width: 122px;height: 35px;background: #ffe399;margin-left: 51px;border-radius: 6px;line-height: 35px;text-align: center;font-size: 16px;color: #e50e1d;}
+.content2{padding-right: 19px;}
+.qq{display: block;margin:35px 0 0 94px;width: 254px;height: 48px;background: #ffe399;border-radius: 5px;line-height: 48px;text-align: center;font-size: 18px;color: #c00001;}
+.qq img{vertical-align: middle;padding-right: 9px;}
+.main_second_fl1{padding-left: 49px;}
+/*会计考试*/
+.main_third{width: 100%;height: 704px;background: url("../images/kaoshi_06.jpg") no-repeat center top;}
+.main_third article{width: 789px;margin: 0 auto;}
+.main_third article .img_title{padding: 57px 0 0 171px;}
+.price{padding: 50px 0 0 180px;}
+.price .money{display: block;width: 33px;height: 33px;background:#ffe399;border-radius: 50%;line-height: 33px;text-align: center;font-size: 25px;color: #e60000;}
+.price span{float: left}
+.num{font-size: 64px;color: #ffe399;font-weight: bold;margin-left: 19px;}
+.youhui{width: 17px;font-size: 18px;color: #ffe399;padding-left: 22px;}
+.shop{padding :34px 0 0 64px;}
+.shop li:first-child{font-size: 14px;color: #e60000;padding-left: 49px;}
+.shop li:nth-child(2){padding: 9px 0 7px 37px;}
+.shop li:nth-child(2) i:first-child{display: block;width: 34px;height: 34px;background: #e60000;border-radius: 50%;font-size: 14px;color: #fff;line-height: 34px;text-align: center;}
+.shop li:nth-child(2) i:last-child{font-size: 29px;color: #e60000;font-weight: bold;margin-left: 7px;line-height: 34px;}
+.shop li:last-child a:first-child{width: 91px;height: 31px;background: #ffe399;border-radius: 3px;line-height: 31px;text-align: center;font-size: 18px;color: #000;font-weight: bold;margin-right: 7px;}
+.shop li:last-child a:last-child{width: 91px;height: 31px;background: #e60000;border-radius: 3px;line-height: 31px;text-align: center;font-size: 18px;color: #fff;font-weight: bold;}
+.main_third_bottom{padding-top: 62px;}
+.main_third_bottom ul{padding-top: 24px;}
+.main_third_bottom ul li{width: 286px;height: 71px;background: #ffe399;border-radius: 5px;margin-bottom: 23px;}
+.main_third_bottom ul li img{padding:0 25px 0 4px;}
+.main_third_bottom ul li p{padding-top: 17px;font-size: 18px;color: #bd0001;}
+.main_third_bottom ul li p span{font-weight: bold;padding-left: 32px;}
+.main_third_bottom_fr{padding-left: 56px;}
+.main_third_bottom_fr .conten p{font-size: 16px;color: #fff;line-height: 25px;padding-top: 9px;}
+.main_third_bottom_fr .conten p:first-child{padding: 9px 133px 0 36px;}
+/*事业单位惊喜放送*/
+.main_four{width: 100%;height:701px;background: url("../images/mian_bg_10.png") no-repeat center top;}
+.main_four article{width: 967px;margin: 0 auto;}
+.main_four article h1{font-size: 64px;color: #fdee95;line-height: 62px;text-align: center;padding-top:69px;}
+.main_four article ul{padding-top: 90px;}
+.main_four article ul li{padding-left: 42px;float: left;padding-right: 98px;}
+.main_four article ul li:last-child{padding-right: 0;padding-left: 46px;}
+.main_four article ul li p{font-size: 18px;color: #fff;line-height: 26px;}
+.main_four article ul li h2{font-size: 28px;color: #fedb77;font-weight: bold;line-height: 51px;}
+.main_four article ul li a{display: block;width: 177px;height: 40px;border-radius: 4px;background: #ffe399;font-size: 16px;color: #de0f21;line-height: 40px;text-align: center;margin-top: 5px;}
+.main_four_bt p{padding-top: 10px;}
+/*教师资格惊喜放送*/
+.main_five{width: 100%;height: 701px;background: url("../images/mian_bg_11.png") no-repeat center top;}
+.main_five article{width: 976px;margin: -1px auto;}
+.main_five article h1{font-size: 64px;color: #fdee95;line-height: 62px;text-align: center;padding-top:128px;}
+.main_five article ul{padding-top: 117px;}
+.main_five article ul span:first-child{padding-left: 75px;font-size: 22px;color: #fff;font-weight: bold;line-height: 27px;}
+.main_five article ul span:last-child{padding-left: 91px;font-size: 16px;color: #fff;line-height: 18px;display: block;padding-top: 3px;}
+.main_five article ul li dl .neirong{padding-left: 14px;padding-top:25px;font-size: 16px;color: #333;line-height:23px; }
+.main_five article ul li dl .pric{padding-left: 87px;font-size: 24px;color: #e21704;font-weight: bold;line-height: 47px;}
+.main_five article ul li dl .jiaozi{padding-left: 39px;font-size: 14px;color: #333;font-weight: bold;line-height: 19px;}
+.main_five article ul li dl .pri{padding-left: 102px;font-size: 20px;color: #e21704;font-weight: bold;line-height: 38px;}
+.main_five article ul li dl .dianji{width: 178px;height: 48px;background: #ffe399;border-radius: 4px;margin-left: 52px; }
+.main_five article ul li dl .dianji a{line-height: 48px;text-align: center;font-size: 18px;color: #e21704;font-weight: bold;display: block;}
+.main_five article ul li{float: left;padding-right: 41px;}
+.main_five article ul li:nth-child(2) .title{padding-left: 3px;}
+.main_five article ul li:nth-child(3) .title{padding-left: 10px;padding-right: 0;}
+/*银行春招惊喜放送*/
+.main_six{width: 100%;height: 700px;background: url("../images/mian_bg_12.png") no-repeat center top;}
+.main_six article{width: 953px;margin: -1px auto;}
+.main_six article ul{padding-top: 106px;}
+.main_six article h1{font-size: 64px;color: #fdee95;line-height: 62px;text-align: center;padding-top:112px;}
+.main_six article ul li h2{padding-left: 28px;font-size: 24px;color: #fff;font-weight: bold;line-height: 46px;}
+.main_six article ul li .time{padding:0 0 5px 134px;font-size: 18px;color: #fff;line-height: 39px;}
+.main_six article ul li .clas{padding-left: 29px;color: #fff;font-size: 18px;line-height: 26px;}
+.main_six article ul li .pri span:first-child{padding-left: 82px;font-size: 30px;color: #ffe399;font-weight: bold;line-height: 93px;}
+.main_six article ul li .pri span:last-child{display: block;width: 85px;height: 50px;border: 1px solid #fff;border-radius: 5px;text-align: center;font-size: 18px;color: #fff;margin: 18px 0 0 16px;}
+.main_six article ul li a{display: block;width: 268px;height: 58px;background: #ffe399;border-radius: 5px;line-height: 58px;text-align: center;font-size: 18px;color: #ed2324;margin: 20px 0 0 72px;}
+.main_six article ul li{float: left;}
+.main_six article ul li:last-child{padding-left: 94px;}
+.main_six article ul li:last-child h2{padding-left: 104px;}
+.main_six article ul li:last-child .time{padding-left: 60px;}
+/*北京各分部地址*/
+.main_seven{width: 100%;height: 702px;background: url("../images/mian_bg_14.jpg") no-repeat center top;}
+.main_seven article{width: 973px;margin: -2px auto;}
+.main_seven article h1{font-size: 64px;color: #fdee95;line-height: 62px;text-align: center;padding-top:119px;}
+.main_seven article .main_seven_list{padding-top: 74px;}
+.main_seven_left{width: 660px;}
+.main_seven_left ul li{float: left;width: 126px;height: 46px;border: 1px solid #ffe399;margin:0 4px 6px 0;border-radius: 4px;line-height: 46px;text-align: center;font-size: 16px;color: #ffe399;}
+.ul_li{margin-right: 0;}
+.main_seven_left ul .active{background: #ffe399;color: #be0001;}
+.list_content{height: 135px;background: #fff;margin-top: 8px;border-radius: 4px;display: none;}
+.list_content p{padding-left: 44px;font-size: 16px;color: #333;line-height: 36px;}
+.list_content p:first-child{padding-top: 16px;}
+.list_content p span{font-weight: bold;}
+.main_seven_right .main_seven_right_logo{width: 299px;height: 148px;border: 1px solid #ffe399;margin-left: 12px;}
+.main_seven_right .main_seven_right_logo ul{padding: 12px 0 13px 50px;}
+.main_seven_right .main_seven_right_logo ul li{float: left;font-size: 18px;color: #ffe399;font-weight: bold;padding-right: 7px;}
+.main_seven_right .main_seven_right_logo ul li:first-child{padding-right: 5px;}
+.main_seven_right .main_seven_right_logo .ul_li1{padding-top: 10px;}
+.main_seven_right .main_seven_right_logo p{padding-left: 17px;line-height: 29px;font-size: 16px;color: #fff;}
+.main_seven_right .main_seven_right_logo p a{color: #ffe399;font-weight: bold;}
+.main_seven_right_er{padding-left: 34px;padding-top: 20px;}
+.main_seven_right_er li{float: left;}
+.main_seven_right_er li p{font-size: 12px; color: #f8f8f8;padding-top: 9px;width: 113px;}
+.main_seven_right_er li:first-child{padding-right: 30px;}
+/*footer*/
+footer{width: 100%;height: 166px;background: #1b1b1b;margin-top: -2px;}
+footer p{line-height: 27px;text-align: center;font-size: 14px;color: #fff;}
+footer p:first-child{padding-top: 43px;}
